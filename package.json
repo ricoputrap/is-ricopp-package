@@ -1,0 +1,19 @@
+{
+  "name": "is-ricopp",
+  "version": "1.0.0",
+  "description": "Is this string \"RicoPP\"?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricoputrap/is-ricopp-package.git"
+  },
+  "author": "Rico PP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricoputrap/is-ricopp-package/issues"
+  },
+  "homepage": "https://github.com/ricoputrap/is-ricopp-package#readme"
+}

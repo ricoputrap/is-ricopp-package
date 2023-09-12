@@ -31,3 +31,7 @@ This is a simple repository for learning how to create an NPM package.
     true
     false
     ```
+
+
+### Referrences
+[How to Create and Publish an NPM Package – a Step-by-Step Guide](https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/)
